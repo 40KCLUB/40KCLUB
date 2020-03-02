@@ -1,6 +1,6 @@
 # 40K CLUB APP
 
-![](https://raw.githubusercontent.com/AaronYin0514/40KCLUB/master/Images/Adv.png)
+![](https://raw.githubusercontent.com/AaronYin0514/40KCLUB/master/Images/Adv1122.jpg)
 
 ## 一、Git Hub客户端
 
